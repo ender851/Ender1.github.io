@@ -11,9 +11,9 @@ All my designs are made with **Ibis Paint** using custom lighting, color grading
 Here are a few examples of my thumbnails 👇  
 (You can see the full gallery on my live site.)
 
-![Thumbnail 1](images/thumb1.jpg)
-![Thumbnail 2](images/thumb2.jpg)
-![Thumbnail 3](images/thumb3.jpg)
+![Thumbnail 1](images/thumb1.png)
+![Thumbnail 2](images/thumb2.png)
+![Thumbnail 3](images/thumb3.png)
 
 ---
 
